@@ -1,0 +1,146 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1250px;
+}
+
+.container-1 {
+    padding-top: 10px;
+}
+
+
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-top {
+    background: #FFFFFF;
+}
+
+.profile-user {
+    color: black;
+}
+
+
+
+.profile-ml {
+    margin-left: 30px;
+    outline: none;
+    border-radius: 20%;
+    border: none;
+    padding: 0.375rem 0.75rem;
+    cursor: pointer;
+}
+
+.navbar-nav {
+    margin-left: 200px;
+}
+
+.icon-call {
+    color: #E07153;
+}
+
+.shp-span {
+    background: #E07153;
+}
+
+.card .btn-shp {
+    outline: none;
+    border-radius: 1px;
+    border: none;
+    padding: 0.375rem 0.75rem;
+    cursor: pointer;
+}
+
+
+
+.card {
+    padding-bottom: 2px;
+    border: none;
+    flex-direction: row;
+}
+
+.work-time {
+    margin-left: 80px;
+    width: 92px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'TT Interfaces';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    /* grey text */
+
+    color: #B7B7B7;
+}
+
+.nav-item {
+    margin: 10px 15px;
+}
+
+#logo_main {
+    position: absolute;
+    height: 132.98px;
+    left: 0.01px;
+    top: 10px;
+    z-index: 10;
+}
+
+/* navbar bottom */
+
+.navbar-bottom {
+    width: 100%;
+    background-color: #f5f5f5;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-bottom-icons {
+    width: 100%;
+    margin-left: 500px;
+}
+
+#logo_main_bottom {
+    position: absolute;
+    width: 108.65px;
+    height: 27.21px;
+    left: 15.35px;
+    top: 40.84px;
+}
+
+.img-icons:first-child {
+    margin-left: 20px;
+}
+
+.img-icons {
+    margin-left: 72px;
+    cursor: pointer;
+}
+
+a  {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    color: #1B1B1B;
+}
+
+a:hover {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    color: #1B1B1B;
+}
